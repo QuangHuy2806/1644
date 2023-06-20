@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskName": "task-online_shopping",
+      "appliesTo": "online_shopping.sql",
+      "type": "launch"
+    }
+  ]
+}
